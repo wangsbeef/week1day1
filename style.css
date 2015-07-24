@@ -1,0 +1,32 @@
+header {
+  padding: 10px;
+}
+
+p {
+   background-color: yellow;
+   color:green;
+   font-family: Impact;
+   text-decoration: underline;
+
+}
+
+body {
+  text-align:center;
+  background-color: rgb(50%, 30%, 10%);
+}
+
+.Door {
+  font-size: 3em;
+  border-style: dashed;
+  border-color: maroon
+}
+
+.cyan {
+  color:#4AE8DE;
+  font-family: Arial;
+}
+
+ul {
+  font-style: oblique;
+}
+
